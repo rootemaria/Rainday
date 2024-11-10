@@ -1,0 +1,19 @@
+ .product{
+    text-align: center;
+}
+
+.product__info{
+    margin-bottom: 60px;
+}
+
+.product__content{
+    display: flex;
+}
+
+.product__information{
+    margin-bottom: 70px;
+}
+
+.product__select{
+    
+}
